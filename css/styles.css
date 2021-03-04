@@ -125,7 +125,7 @@ p {
   color: #fff;
   text-align: center;
 }
-.cta-heading{
+.cta-heading {
   font-family: "Montserrat", sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
@@ -133,13 +133,12 @@ p {
 }
 
 /* Footer Section */
-#footer{
+#footer {
   padding: 7% 15%;
   text-align: center;
-
 }
 
-.social-icon{
+.social-icon {
   margin: 20px 10px;
 }
 
